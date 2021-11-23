@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Signup testing</description>
+   <name>SignUpTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df4027cc-0309-4250-90be-2883344ca85c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case failed beacause of email already taken</description>
+   <name>SignUpFailed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd0bd630-0763-47d1-be7f-b72b4a96d6ed</testCaseGuid>
+</TestCaseEntity>

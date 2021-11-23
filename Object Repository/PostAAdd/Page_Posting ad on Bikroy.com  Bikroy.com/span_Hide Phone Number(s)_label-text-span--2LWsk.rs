@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hide Phone Number(s)_label-text-span--2LWsk</name>
+   <tag></tag>
+   <elementGuidId>34203a58-5fd0-4470-abb7-673ceaf6daf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-wrapper--5ha3i > div.custom-checkbox--2_15X > label.label-wrapper--2lPMv > span.label-text-span--2LWsk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-wrapper']/div/div[3]/div[5]/form/div[5]/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-text-span--2LWsk</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-wrapper&quot;)/div[@class=&quot;top-container--12FJu all justify-content-flex-start--1Xozy align-items-normal--vaTgD flex-wrap-nowrap--3IpfJ flex-direction-column--3aExp flex--3fKk1&quot;]/div[@class=&quot;desktop-max-width-container--3xntY main-content-area--o-zsx&quot;]/div[5]/form[1]/div[@class=&quot;form-wrapper--5ha3i&quot;]/div[@class=&quot;custom-checkbox--2_15X&quot;]/label[@class=&quot;label-wrapper--2lPMv&quot;]/span[@class=&quot;label-text-span--2LWsk&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-wrapper']/div/div[3]/div[5]/form/div[5]/div[2]/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

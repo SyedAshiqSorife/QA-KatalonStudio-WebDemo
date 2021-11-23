@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>c6950e31-6a07-4c2d-9c28-45700ac271c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label-text--1OesM > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-wrapper']/div/div[3]/div[5]/form/div/div/div/div[2]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-wrapper&quot;)/div[@class=&quot;top-container--12FJu all justify-content-flex-start--1Xozy align-items-normal--vaTgD flex-wrap-nowrap--3IpfJ flex-direction-column--3aExp flex--3fKk1&quot;]/div[@class=&quot;desktop-max-width-container--3xntY main-content-area--o-zsx&quot;]/div[5]/form[1]/div[@class=&quot;config-fields-wrapper--3rndl&quot;]/div[@class=&quot;form-field-wrapper--SzdnY&quot;]/div[@class=&quot;sm-col-12--30zDS lg-col-12--1_BS_  form-field--37XZr block--3v-Ow&quot;]/div[@class=&quot;column-group--1w8pG&quot;]/div[1]/div[@class=&quot;custom-radio--1pHhU&quot;]/label[@class=&quot;label-text--1OesM&quot;]/span[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-wrapper']/div/div[3]/div[5]/form/div/div/div/div[2]/div/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+   </webElementXpaths>
+</WebElementEntity>
